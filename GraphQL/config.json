@@ -1,0 +1,12 @@
+{
+    "DB":{
+        "host":"ubereats.c7bxb5eb21sj.us-east-2.rds.amazonaws.com",
+        "username":"admin",
+        "password":"Sobha4964",
+        "port":3306,
+        "database":"Ubereats"
+    },
+    "secret":"",
+    "frontend":""
+
+}
